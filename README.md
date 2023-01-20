@@ -28,4 +28,7 @@ This repository contains all the codes along with notes and documentation of the
 - [ ] Recursion.go Explaination [Part-2]
 - [ ] Rotational Cipher in Golang
 
-Cipher Schools Golant Placement Training 2023. [^1]
+<br><br><br>
+<p align="center">
+Cipher Schools Golang Placement Training 2023. </p>
+
