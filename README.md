@@ -20,8 +20,8 @@ This repository contains all the codes along with notes and documentation of the
 	
 ## :page_facing_up: Daily Tasks
 - [x] Git & Github (21 Jan 2023)
-- [ ] Course Overview by instructor 
-- [ ] Installation of Golang
+- [x] Course Overview by instructor (21 Jan 2023)
+- [x] Installation of Golang (21 Jan 2023)
 - [ ] Starting the Golang, hello.go
 - [ ] Loop.go, fuction.go, pointer.go
 - [ ] Recursion.go Explanation [Part-1]
