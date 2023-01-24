@@ -20,11 +20,11 @@ func main() {
 
 	w := new(int)
 	//name := new(string)
-	//t := "hjbjk"
+	t := "Ak"
 	_, x := c(*w, &t)
 	// fmt.Println(result)
 	fmt.Println(x)
-	// fmt.Println(*name)
+	fmt.Println(*name)  //code
 	fmt.Println(*w)
 	r, _ := b(1, 2, 3, 4, 5, 6, 6)
 	fmt.Print(r)
@@ -38,10 +38,10 @@ func b(args ...int) (bool, int) {
 	}
 	return true, 11
 }
-func c(w int, name *string) (i int, j string) {
+func c(w *int, name *string) (i int, j string) {
 	i = 10
 	j = "rahul"
-	w = 100
+	*w = 100
 	*name = "code"
 	log.Print("j")
 	return
