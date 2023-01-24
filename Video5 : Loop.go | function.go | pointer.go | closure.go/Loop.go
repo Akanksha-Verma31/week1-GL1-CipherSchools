@@ -33,13 +33,26 @@ func main() {
 		}
 	}
 
+	num := []int{1,2,3,4}
+	for index, value := range num{
+		fmt.Println(value)
+	}
+
 	nums := []string{"rahul", "kumar"}
 	for _, value := range nums {
 		if value == "u" {
 			break
 		}
 		fmt.Println(value)
-
 	}
+
+	for k,v:=range 3{
+		if i==1{
+			continue
+		}
+		fmt.Println(i)
+	}
+
+
 	// list:=range 2
 }
