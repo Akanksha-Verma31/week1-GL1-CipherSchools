@@ -25,7 +25,7 @@ This repository contains all the codes along with notes and documentation of the
 - [x] Starting the Golang, hello.go (23 Jan 2023)
 - [x] Loop.go, fuction.go, pointer.go (23 Jan 2023)
 - [x] Recursion.go Explanation [Part-1] (24 Jan 2023)
-- [ ] Recursion.go Explaination [Part-2]
+- [x] Recursion.go Explaination [Part-2] (24 Jan 2023)
 - [ ] Rotational Cipher in Golang
 
 <br><br><br>
