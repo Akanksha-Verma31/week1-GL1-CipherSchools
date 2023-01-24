@@ -25,7 +25,7 @@ func main() {
 	// fmt.Println(result)
 	fmt.Println(x)
 	fmt.Println(*name)  //code
-	fmt.Println(*w)
+	fmt.Println(*w)  //
 	r, _ := b(1, 2, 3, 4, 5, 6, 6)
 	fmt.Print(r)
 }
