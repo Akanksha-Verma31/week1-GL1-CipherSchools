@@ -8,6 +8,21 @@ func main() {
 	fib(10)
 	fact(5)
 }
+/*
+func rec(num int){
+	if num==0{
+		return
+	}
+	if num%2==0{
+		fmt.Println(num+1)
+		rec(num)
+	}else{
+		fmt.Println(num+2)
+		rec(num)
+	}
+}
+*/
+
 func rec(num int) {
 	if num <= 0 {
 		return
