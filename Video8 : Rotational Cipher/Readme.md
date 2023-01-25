@@ -8,5 +8,7 @@ The Caesar Cipher technique is one of the earliest and simplest methods of encry
 
 # Procedure: 
 -Traverse the given text one character at a time.
+
 -For each character, transform the given character as per the rule, depending on whether we’re encrypting or decrypting the text.
+
 -Return the new string generated.
